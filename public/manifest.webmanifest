@@ -1,0 +1,10 @@
+{
+  "name": "Friendly AI",
+  "short_name": "Friendly AI",
+  "description": "A friendly space to learn, create, and explore.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10101a",
+  "theme_color": "#10101a",
+  "icons": [{ "src": "/pwa-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
